@@ -6,7 +6,7 @@ import tata from "../images/tata-logo.jpg";
 function Partners() {
   return (
     <>
-      <div>
+      <div id="par">
         <div id="part">
           <h1>
             Our <br></br>Awesome Clients

@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./navbar";
 import "../style/sk_style.css";
+import "../style/mediaquery.css";
 import Service from "./Service";
 import Search from "./para";
 import Pro from "./projects_sk";
